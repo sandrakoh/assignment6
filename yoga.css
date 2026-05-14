@@ -8,6 +8,9 @@
   header{
     background-color: rgb(63, 198, 180);
   }
+  div.slideshow{
+  border: none;
+}
   .center a{
     color: black;
   }
@@ -16,7 +19,7 @@
     width: 100%;
   }
   div.cycle-slideshow{
-    border:none;
+    border: none;
     width: 100%;
   }
 
@@ -45,7 +48,6 @@
   a{
     color: aliceblue;
     text-decoration: none;
-     width: 100%;
   }
   
   main img{
