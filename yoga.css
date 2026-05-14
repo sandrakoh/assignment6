@@ -8,15 +8,15 @@
   header{
     background-color: rgb(63, 198, 180);
   }
-  div.slideshow{
-  border: none;
-}
   .center a{
     color: black;
   }
   div.center{
     border: none;
     width: 100%;
+  }
+   div.slideshow{
+  border: none;
   }
   div.cycle-slideshow{
     border: none;
